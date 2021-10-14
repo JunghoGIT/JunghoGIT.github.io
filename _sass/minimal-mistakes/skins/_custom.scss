@@ -4,18 +4,18 @@
 
 /* Colors */
 $dark-gray: #0e2431 !default;
-$background-color: #cde4f0 !default;
-$text-color: rgb(8, 14, 46) !default;
+$background-color: #2c2c2c !default;
+$text-color: rgb(232, 235, 255) !default;
 $muted-text-color: $dark-gray !default;
 $primary-color: #e79e3e !default;
 $border-color: mix(#000, $background-color, 20%) !default;
 $code-background-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color-dark: mix(#000, $background-color, 10%) !default;
 $form-background-color: mix(#fff, $background-color, 15%) !default;
-$footer-background-color: #a6c0c7 !default;
-$link-color: rgb(223, 161, 69) !default;
-$link-color-hover: mix(#fff, $link-color, 25%) !default;
-$link-color-visited: mix(#000, $link-color, 25%) !default;
+$footer-background-color: #1b1b1b !default;
+$link-color: #e79e3e !default;
+$link-color-hover: mix(#fff, $link-color, 15%) !default;
+$link-color-visited: mix(#000, $link-color, 15%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
