@@ -14,18 +14,22 @@ toc_sticky: true
 
 
 
+<br>
 
 # WEB and SERVER
 
-
+<br>
+<br>
 
 ## WEB
 
-
+<br>
+<br>
 
 ### what is web ?
 
-
+<br>
+<br>
 
 >웹은 인터넷 상에서 동작하는 하나의 서비스이다.
 >
@@ -37,8 +41,9 @@ toc_sticky: true
 
 
 
-### 웹의 구성
-
+## 웹의 구성
+<br>
+<br>
 
 
 
@@ -48,16 +53,17 @@ toc_sticky: true
 
 <ul>
 
-    - HTML
-    - URI(URL)
-    - WEB Browser
-    - WEB Server
-    - HTTP
+    - HTML<br>
+    - URI(URL)<br>
+    - WEB Browser<br>
+    - WEB Server<br>
+    - HTTP<br>
 </ul>
+<br>
 
 ### HTML
-
-
+<br>
+<br>
 
 `HTML` 이란 웹을 구성하는 가장 기본적인 문서다.
 
@@ -72,29 +78,32 @@ HTML 은 고유의 규칙 하에 작성된 TEXT 코드로 구성되어있다.
 
 위의 사진처럼 HTML은 정적이고 기능 자체에 다양한 웹을 만드는 것에 한계가 있기 때문에 다양한 언어가 포함되어 같이 쓰인다.
 
-![프론트언어](\assets\images\프론트언어.jpeg){: width="50" height="50"}
+![프론트언어](\assets\images\프론트언어.jpeg){: width="270" height="270"}
 
 
 
 
-
+<br>
 
 
 `css` 는 HTML로 작성된 요소들을 시각적으로 꾸밀 수 있는 언어이다.
 
 `javascript`는 정적인 HTML의 문제점을 해결하고 동적인 다양한 기능을 추가 할 수 있게 해준다.
 
-
+<br>
 
 
 
 ### URI & URL , HTTP
 
+<br>
+<br>
+
 ![URI](\assets\images\URL.JPG)
 
 
 
-`HTTP` 란
+`HTTP` 란 ??
 
 >인터넷에서, 웹 서버와 사용자의 인터넷 브라우저 사이에 문서를 전송하기 위해 사용되는 통신 규약을 말한다.
 >
@@ -110,10 +119,12 @@ HTML 은 고유의 규칙 하에 작성된 TEXT 코드로 구성되어있다.
 
  `URL` 은 위의 폴더와 파일명 부분 즉 찾고 싶은 정보의 정확한 위치와 이름을 포함한다.
 
-
+<br>
 
 ### WEB Browser
 
+<br>
+<br>
 
 
 `웹 브라우저`는 우리가 아는 일반적인 '익스플로어','크롬' 등의 브라우저이며 웹에 있어서 웹을 사용하는 주체이자 **'클라이언트'**라고 볼 수 있다.
@@ -123,24 +134,29 @@ HTML 은 고유의 규칙 하에 작성된 TEXT 코드로 구성되어있다.
 
 ### WEB Server
 
+<br>
+<br>
 
 
 `웹 서버`는 우리가 원하는 정보를 갖고 있으며 해당 서비스를 '제공'하는 **서버**이다.
 
 
 
-
+<br>
 
 <hr>
+<br>
 
 
 ## SERVER
 
-
+<br>
+<br>
 
 ### what is server?
 
-
+<br>
+<br>
 
 
 
