@@ -12,6 +12,9 @@ toc_sticky: true
 
 
 
+
+
+
 # WEB and SERVER
 
 
@@ -39,7 +42,6 @@ toc_sticky: true
 
 
 
-
 웹의 구성은 해석,분류범위에 따라서 블로그 글로 정리할 수 없을만큼 방대하고 복잡하게 구성되어있다. 
 
 그나마 최대한 간단히 나열한 구성 요소들을 이렇다.
@@ -60,7 +62,6 @@ toc_sticky: true
 `HTML` 이란 웹을 구성하는 가장 기본적인 문서다.
 
 HTML 은 고유의 규칙 하에 작성된 TEXT 코드로 구성되어있다.
-
 
 
 ![html예시](\assets\images\HTML예시.JPG)
@@ -131,6 +132,7 @@ HTML 은 고유의 규칙 하에 작성된 TEXT 코드로 구성되어있다.
 
 
 <hr>
+
 
 ## SERVER
 
