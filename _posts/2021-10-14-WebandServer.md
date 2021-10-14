@@ -46,14 +46,14 @@ toc_sticky: true
 
 그나마 최대한 간단히 나열한 구성 요소들을 이렇다.
 
-<ol>
+<ul>
 
     - HTML
     - URI(URL)
     - WEB Browser
     - WEB Server
     - HTTP
-</ol>
+</ul>
 
 ### HTML
 
