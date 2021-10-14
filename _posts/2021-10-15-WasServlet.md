@@ -70,7 +70,7 @@ WAS는 독립적으로 데이터나 요청을 처리하는 것이 아닌 서버�
 
 <br>
 
-## 2-1 Servlet = API
+### 2-1 Servlet = API
 
 <br>
 
