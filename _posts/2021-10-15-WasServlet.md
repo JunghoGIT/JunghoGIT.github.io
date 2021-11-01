@@ -2,9 +2,9 @@
 title:  "WAS와 Servlet 기초"
 excerpt: "배경지식 학습"
 categories:
- - TIL
+ - JSP
 tags:
- - [web,server,study,TIL,java]
+ - [web,server,study,TIL,jsp]
 last_modified_at: 2021-10-15
 toc: true
 toc_sticky: true

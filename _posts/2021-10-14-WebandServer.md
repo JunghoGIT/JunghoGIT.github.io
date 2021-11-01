@@ -2,7 +2,7 @@
 title:  "WEB과 Server 기초"
 excerpt: "기본지식 훈련"
 categories:
- - TIL
+ - Server
 tags:
  - [web,server,study,TIL]
 last_modified_at: 2021-10-15
