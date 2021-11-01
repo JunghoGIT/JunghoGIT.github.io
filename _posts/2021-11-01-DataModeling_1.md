@@ -139,11 +139,11 @@ Entity와 Entity 간의 관계를 정의하며 개념적 모델링 단계에서 
 
    
 
-![ERD기호](C:\Users\윤정호\Desktop\깃헙블로그\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\ERD기호.JPG)
+![ERD기호](\assets\images\ERD기호.JPG)
 
 
 
-![ERD예시](C:\Users\윤정호\Desktop\깃헙블로그\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\ERD예시.png)
+![ERD예시](\assets\images\ERD예시.png)
 
 
 
