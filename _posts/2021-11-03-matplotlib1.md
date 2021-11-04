@@ -51,15 +51,16 @@ ax.plot(data,data2-100,marker = 'v',label='Y') # 생성된 axes 에 대한 plot(
 
 matplotlib로 그래프를 그리려면 Figure 객체와 하나 이상의 subplot(Axes) 객체가 필요하다.<br>
 Axes 객체는 다시 두 개의 Axis 객체를 포함한다.<br> 여기서 Axis 객체가 y축과 x축을 나타냅니다.<br>
-.subplots() 함수를 통해 figure와 axes 객체를 직접 생성해줄 수 있다.<br>
+.subplots() 함수를 통해 figure와 axes 객체를 직접 생성해줄 수 있다.<br><br>
 figure는 그래프가 그려질 전체적인 캔버스라고 보면 된다. <br>
 figsize=(x축의크기,y축의크기)로 캔버스의 크기를 설정 가능하다.<br><br>
 그 후 Axes 객체의 .plot() 함수로 플롯 그래프를 만들 수 있다.<br>
 plot함수는 매개 변수로 [x축이 될 데이터(axis0)], [y축이 될 데이터(axis1)], [plot설정] 순서로 입력을 해주면 된다.<br>
-[plot설정] 부분에는 fmt = '[marker][line][color]'로 대체 될 수있다.
+[plot설정] 부분은 '[marker][line][color]'로 대체 될 수있다.<br>
 'v-r' 이라고 입력해게 된다면 빨간색 실선에 V모양 마커표시를 하겠다는 의미이다.
-<br>
-이렇게 해주면 axes 객체 안에 plot은 다수 일 수 있다. 즉 한 캔버스 안에 여러 plot그래프를 담을 수 있다는 뜻이다.
+<br><br>
+이렇게 해주면 axes 객체 안에 plot에 대한 정보가 저장되며 plot은 다수 일 수 있다.
+<br>즉 한 캔버스 안에 여러 plot그래프를 담을 수 있다는 뜻이다.
 <br>
 이제 선형 plot 그래프를 만들기 위한 모든 재료는 준비가 된거다.
 <br> 간단한 추가 설정 후에 실행까지 해보자.
