@@ -428,11 +428,11 @@ var x = new MutationObserver(function (mutations, observer) {{
 
 // Listen for the removal of the full notebook cells
 var notebookContainer = gd.closest('#notebook-container');
+{% raw %}
 if (notebookContainer) {{
-   {% raw %}
  x.observe(notebookContainer, {childList: true});
- {% endraw %}
 }}
+{% endraw %}
 
 // Listen for the clearing of the current output cell
 var outputEl = gd.closest('.output');
@@ -531,9 +531,7 @@ var x = new MutationObserver(function (mutations, observer) {{
 // Listen for the removal of the full notebook cells
 var notebookContainer = gd.closest('#notebook-container');
 if (notebookContainer) {{
-  {% raw %}
     x.observe(notebookContainer, {childList: true});
-    {% endraw %}
 }}
 
 // Listen for the clearing of the current output cell
