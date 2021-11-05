@@ -1,4 +1,3 @@
-
 ---
 title:  "Plotly 기본 사용 연습"
 excerpt: "Kaggle 자료로 공부"
