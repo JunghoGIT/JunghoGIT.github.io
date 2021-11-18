@@ -75,7 +75,7 @@ DESC PLAN_TABLE;
 
 
 
-![옵티마이저우선순위](C:\Users\윤정호\Desktop\깃헙블로그\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\옵티마이저우선순위.jpg)
+![옵티마이저우선순위](\assets\images\옵티마이저우선순위.jpg)
 
 [이미지출처](https://cornswrold.tistory.com/81)
 
@@ -122,7 +122,7 @@ SQL문을 실행하기 위해서 예상되는 소요시간or 자원의 사용량
 
 
 
-![B트리](C:\Users\윤정호\Desktop\깃헙블로그\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\B트리.png)
+![B트리](\assets\images\B트리.png)
 
 [이미지출처](https://velog.io/@mu1616/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9D%B8%EB%8D%B1%EC%8A%A4-Index)
 
