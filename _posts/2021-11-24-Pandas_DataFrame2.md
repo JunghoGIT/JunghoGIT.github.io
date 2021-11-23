@@ -4,7 +4,7 @@ excerpt: "DataFrame 필터를 이용한 추출"
 categories:
  - Pandas
 tags:
- - [pandas,python,study,TIL,Data]
+ - [pandas,python,study,TIL,data]
 last_modified_at: 2021-11-23
 toc: true
 toc_sticky: true

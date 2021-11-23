@@ -4,7 +4,7 @@ excerpt: "데이터 모델링과 ERD"
 categories:
  - SQL
 tags:
- - [DATA,SQL,study,TIL]
+ - [data,SQL,study,TIL]
 last_modified_at: 2021-11-01
 toc: true
 toc_sticky: true

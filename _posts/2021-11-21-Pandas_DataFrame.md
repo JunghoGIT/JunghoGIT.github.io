@@ -4,7 +4,7 @@ excerpt: "DataFrame의 기본 사용법"
 categories:
  - Pandas
 tags:
- - [pandas,python,study,TIL,Data]
+ - [pandas,python,study,TIL,data]
 last_modified_at: 2021-11-21
 toc: true
 toc_sticky: true

@@ -4,7 +4,7 @@ excerpt: "Entity와 스키마"
 categories:
  - SQL
 tags:
- - [DATA,SQL,study,TIL]
+ - [data,SQL,study,TIL]
 last_modified_at: 2021-11-04
 toc: true
 toc_sticky: true

@@ -4,7 +4,7 @@ excerpt: "Kaggle 자료로 공부"
 categories:
  - 시각화
 tags:
- - [DATA,study,TIL,plotly]
+ - [data,study,TIL,plotly]
 last_modified_at: 2021-11-06
 toc: true
 toc_sticky: true

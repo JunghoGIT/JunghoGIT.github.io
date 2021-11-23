@@ -4,7 +4,7 @@ excerpt: "옵티마이저와 index"
 categories:
  - SQL
 tags:
- - [DATA,SQL,study,TIL]
+ - [data,SQL,study,TIL]
 last_modified_at: 2021-11-17
 toc: true
 toc_sticky: true

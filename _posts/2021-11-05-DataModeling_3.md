@@ -4,7 +4,7 @@ excerpt: "정규화와 반정규화"
 categories:
  - SQL
 tags:
- - [DATA,SQL,study,TIL]
+ - [data,SQL,study,TIL]
 last_modified_at: 2021-11-05
 toc: true
 toc_sticky: true

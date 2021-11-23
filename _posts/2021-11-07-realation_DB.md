@@ -4,7 +4,7 @@ excerpt: "개념과 구조"
 categories:
  - SQL
 tags:
- - [DATA,SQL,study,TIL]
+ - [data,SQL,study,TIL]
 last_modified_at: 2021-11-07
 toc: true
 toc_sticky: true

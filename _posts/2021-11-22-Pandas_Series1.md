@@ -4,7 +4,7 @@ excerpt: "데이터 생성과 연산 기본"
 categories:
  - Pandas
 tags:
- - [pandas,python,study,TIL,Data]
+ - [pandas,python,study,TIL,data]
 last_modified_at: 2021-11-22
 toc: true
 toc_sticky: true

@@ -4,7 +4,7 @@ excerpt: "INSERT,UPDATE,DELETE"
 categories:
  - SQL
 tags:
- - [DATA,SQL,study,TIL]
+ - [data,SQL,study,TIL]
 last_modified_at: 2021-11-09
 toc: true
 toc_sticky: true
