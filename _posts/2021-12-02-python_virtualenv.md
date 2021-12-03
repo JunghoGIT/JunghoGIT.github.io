@@ -4,7 +4,7 @@ excerpt: "virtualenv 기본 사용법"
 categories:
  - Python
 tags:
- - [pandas,python,study,TIL,data]
+ - [python,study,TIL,data]
 last_modified_at: 2021-12-02
 toc: true
 toc_sticky: true
