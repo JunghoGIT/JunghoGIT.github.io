@@ -63,7 +63,7 @@ df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -186,7 +186,7 @@ df.query("판매개수 == 2")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -246,7 +246,7 @@ df.query("판매개수 >= 2")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -334,7 +334,7 @@ df.query("판매원 == '노제'")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -389,7 +389,13 @@ df.query("판매원 == '노제'")
 
  <br>
 
- ## in 연산자
+
+
+## in 연산자
+
+
+
+
 
  칼럼에 리스트or튜플의 값이 하나라도 존재하면 참,아니라면 거짓으로 데이터를 추출한다.<br>
  in 과 not in 을 사용하는데 이는 곧 == , != 와 같은 의미이다.
@@ -412,7 +418,7 @@ df.query("판매개수 in [1,4]")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -493,7 +499,7 @@ df.query("판매원 != ['정호','윈터']")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -575,7 +581,7 @@ df.query("(판매개수 in [1,4]) and (판매원 != ['정호','윈터'])")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -635,7 +641,7 @@ df.query("(판매개수 in [1,4]) and not (판매원 != ['정호','윈터'])")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -707,7 +713,7 @@ df.query("판매개수 == @x")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -765,7 +771,7 @@ df.query("판매개수 == @sum(1,2)")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -832,7 +838,7 @@ df.query("(index >=3 ) and (index <= 7)")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -908,7 +914,7 @@ df.query("(인덱스 >=4 ) and (인덱스 <= 6)")
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -989,7 +995,7 @@ df.query("판매원.str.contains('정')",engine='python')
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1067,7 +1073,7 @@ df.query("temp.str.contains('G')",engine='python')
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1147,7 +1153,7 @@ df.query("temp.str.contains('G',case=False)",engine='python')
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1269,7 +1275,7 @@ df.query("temp.str.startswith('P')",engine='python')
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -1347,7 +1353,7 @@ df.query("temp.str.endswith('d')",engine='python')
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }

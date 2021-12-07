@@ -23,7 +23,7 @@ toc_sticky: true
 
 
 
-Heroku 를 통해 배포 하는 방법은 https://dash.plotly.com/deployment 에서 확인할 수 있다.
+Heroku 를 통해 배포 하는 방법은 [https://dash.plotly.com/deployment](https://dash.plotly.com/deployment) 에서 확인할 수 있다.
 
 
 
@@ -49,7 +49,7 @@ Heroku 를 통해 배포 하는 방법은 https://dash.plotly.com/deployment 에
 
 
 
-우선 https://www.pythonanywhere.com/ 로 접속하여 간단한 회원 가입 후 로그인을 진행하면 된다.
+우선 [https://www.pythonanywhere.com/](https://www.pythonanywhere.com/) 로 접속하여 간단한 회원 가입 후 로그인을 진행하면 된다.
 
 회원가입은 Create a Beginner account 를 선택하여 한다.
 
@@ -301,7 +301,7 @@ Raw 메뉴를 클릭하여 나오는 페이지 주소를 사용하면 된다.
 
 
 
-http://yoonjungho.pythonanywhere.com/
+[http://yoonjungho.pythonanywhere.com/](http://yoonjungho.pythonanywhere.com/)
 
 
 
