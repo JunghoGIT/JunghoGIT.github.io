@@ -4,7 +4,7 @@ excerpt: "Django 프로젝트와 앱 생성"
 categories:
  - Djagno
 tags:
- - [Django,python,study,TIL,data]
+ - [Django,python,study,TIL]
 last_modified_at: 2021-12-12
 toc: true
 toc_sticky: true
