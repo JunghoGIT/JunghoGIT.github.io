@@ -2,7 +2,7 @@
 title: "Plotly 기본 사용 연습"
 excerpt: "Kaggle 자료로 공부"
 categories:
- - 시각화
+ - visualize
 tags:
  - [data,study,TIL,plotly]
 last_modified_at: 2021-11-06

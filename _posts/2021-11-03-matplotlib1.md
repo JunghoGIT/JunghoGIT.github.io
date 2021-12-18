@@ -2,7 +2,7 @@
 title:  "Matplotlib로 선그래프 그리기"
 excerpt: "axes와 figure 객체, 선 그래프 그리기"
 categories:
- - 시각화
+ - visualize
 tags:
  - [python,matplotlib,study,TIL,data]
 last_modified_at: 2021-11-03
