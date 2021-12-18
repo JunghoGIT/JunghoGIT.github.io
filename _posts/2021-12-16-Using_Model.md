@@ -2,7 +2,7 @@
 title:  "Django Model 기본 사용법"
 excerpt: "Model CRUD"
 categories:
- - Djagno
+ - Django
 tags:
  - [Django,python,study,TIL]
 last_modified_at: 2021-12-16

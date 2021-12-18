@@ -2,7 +2,7 @@
 title:  "Django 프로젝트 만들기"
 excerpt: "Django 프로젝트와 앱 생성"
 categories:
- - Djagno
+ - Django
 tags:
  - [Django,python,study,TIL]
 last_modified_at: 2021-12-12

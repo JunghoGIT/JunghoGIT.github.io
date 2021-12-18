@@ -2,7 +2,7 @@
 title:  "[Error] Related Field got invalid lookup: icontains"
 excerpt: "Foreignkey 관련 에러"
 categories:
- - Djagno
+ - Django
 tags:
  - [Django,python,study,TIL,Error]
 last_modified_at: 2021-12-18
