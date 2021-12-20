@@ -1,6 +1,6 @@
 ---
 title:  "django 참고하기 좋은 사이트"
-excerpt: "공식문서 ~ 개인 블로그"
+excerpt: "공식문서부터 개인 블로그까지"
 categories:
  - Django
 tags:
