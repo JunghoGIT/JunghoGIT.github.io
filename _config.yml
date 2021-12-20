@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "체대생에서 개발자로 컴파일중..."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
