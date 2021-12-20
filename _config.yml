@@ -23,7 +23,7 @@ name                     : "YoonJungHo"
 description              : "개발자가 되기 위한 처절한 20대 청춘을 기록합니다."
 url                      : "https://junghogit.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "JunghoGIT/JunghoGIT.github.io"
+repository               : #"JunghoGIT/JunghoGIT.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     :  "/assets/images/logo.gif"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
