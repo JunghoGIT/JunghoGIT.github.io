@@ -4,7 +4,7 @@ excerpt: "공식문서 ~ 개인 블로그"
 categories:
  - Django
 tags:
- - [Django]
+ - [Django,study]
 last_modified_at: 2021-12-21
 toc: true
 toc_sticky: true
