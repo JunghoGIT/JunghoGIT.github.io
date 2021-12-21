@@ -1,6 +1,6 @@
 ---
 title:  "jekyll에서 태그 문법 사용하기"
-excerpt: "jekyll 에서 {{}} , {% %} 를 사용해보자."
+excerpt: "jekyll luquid tag 예외 처리"
 categories:
  - etc
 tags:
