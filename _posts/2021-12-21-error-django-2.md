@@ -73,7 +73,7 @@ def detail(request, question_id):
 
 
 
-![queryset_error_1](C:\Users\jungho\Desktop\github rapository\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\jumptodjango\queryset_error_1.JPG)
+![queryset_error_1](\assets\images\jumptodjango\queryset_error_1.JPG)
 
 
 
