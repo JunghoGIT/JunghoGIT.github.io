@@ -27,9 +27,9 @@ toc_sticky: true
 
 
 부모 템플릿이 될 base.html 을 만들어보자.
-
+{% raw %}
 ``{% block content %}`` 와 ``{% endlock %}`` 탬플릿 태그를 이용하게 간단하게 만들 수 있다.
-
+{% endraw %}
 
 
 ```html
@@ -55,12 +55,12 @@ toc_sticky: true
 {% endraw %}
 ```
 
-
+{% raw %}
 
 자식 탬플릿이 작성되고 적용 시킬 부분을 ``{% block content %}`` 와 ``{% endlock %}``  탬플릿 태그로 구분한다.
 
 
-
+{% endraw %}
 
 
 ## 자식 템플릿
@@ -89,9 +89,11 @@ toc_sticky: true
 
 요약하자면
 
+{% raw %}
+
 1. 부모 템플릿에서 상속받은 자식만의 코드가 구현 될 부분을 ``{% block content %}`` 와 ``{% endlock %}`` 코드로 만들어준다.
 2. 자식 템플릿에서 ``{% extends '부모템플릿' %}`` 을 통해 부모 템플릿을 지정해주고  ``{% block content %}`` 와 ``{% endlock %}`` 안에 코드를 작성한다.
 
-
+{% endraw %}
 
 very easy !
