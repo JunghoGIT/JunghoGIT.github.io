@@ -51,6 +51,7 @@ toc_sticky: true
 
 
 - django - debug - toolbar :[https://django-debug-toolbar.readthedocs.io/en/latest/installation.html](https://django-debug-toolbar.readthedocs.io/en/latest/installation.html)
+- django orm cookbook 번역 : [https://django-orm-cookbook-ko.readthedocs.io/en/latest/index.html](https://django-orm-cookbook-ko.readthedocs.io/en/latest/index.html)
 - 좋은 블로그 
   - [https://tothefullest08.github.io/django/2019/02/11/django01/](https://tothefullest08.github.io/django/2019/02/11/django01/)
 
