@@ -41,7 +41,7 @@ toc_sticky: true
 - 파일 관리 : [https://docs.djangoproject.com/en/4.0/topics/files/](https://docs.djangoproject.com/en/4.0/topics/files/)
 - 모델 CRUD 쿼리 : [https://docs.djangoproject.com/en/4.0/topics/db/queries/](https://docs.djangoproject.com/en/4.0/topics/db/queries/)
 - queryset : [https://docs.djangoproject.com/en/4.0/ref/models/querysets/](https://docs.djangoproject.com/en/4.0/ref/models/querysets/)
-
+- form 필드 : [https://docs.djangoproject.com/en/4.0/ref/forms/fields/](https://docs.djangoproject.com/en/4.0/ref/forms/fields/)
 
 
 
