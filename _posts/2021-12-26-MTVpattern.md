@@ -115,7 +115,7 @@ MTV 패턴의 각 요소별 명칭은 MVC 패턴에 대응되지만 내부동작
 
 
 
-![MTV_1](C:\Users\jungho\Desktop\github rapository\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\django\MTV_1.jpg)
+![MTV_1](\assets\images\django\MTV_1.jpg)
 
 
 
