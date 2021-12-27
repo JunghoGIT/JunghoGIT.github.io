@@ -109,7 +109,7 @@ class PersonAdmin(admin.ModelAdmin):
 
 
 
-![admin_model_1](C:\Users\jungho\Desktop\github rapository\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\django\admin_model_1.JPG)
+![admin_model_1](\assets\images\django\admin_model_1.JPG)
 
 
 
@@ -206,7 +206,7 @@ class PersonAdmin(admin.ModelAdmin):
 
 
 
-![admin_model_2](C:\Users\jungho\Desktop\github rapository\JunghoGIT.github.io-master\JunghoGIT.github.io\assets\images\django\admin_model_2.JPG)
+![admin_model_2](\assets\images\django\admin_model_2.JPG)
 
 
 
