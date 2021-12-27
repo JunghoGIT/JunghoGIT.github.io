@@ -8,6 +8,7 @@ tags:
 last_modified_at: 2021-12-28
 toc: true
 toc_sticky: true
+published: true
 ---
 
 # 관리자 페이지에서 model 관리하기
