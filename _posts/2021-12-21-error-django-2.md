@@ -69,7 +69,7 @@ def detail(request, question_id):
 
 탬플릿 태그를 이용해서 HTML 에 Answer에가 존재 하지 않을 때의 조건을 고려했다.
 
-질문 모델의 id와 대응되는 답변이 존재한다면 정상적으로 출력이 됐지만 문제는 질문만 있고 대응되는 답변이 없을 땐 에러가 발생했다.
+질문 모델의 id와 외래키로 연결된 답변이 존재한다면 정상적으로 출력이 됐지만 질문만 있고 답변이 없을 떄 에러가 발생했다.
 
 
 
@@ -100,7 +100,9 @@ community.models.Answer.DoesNotExist: Answer matching query does not exist.
 
 
 
-결과를 보니 에러의 원인은 queryset 을 사용해서 데이터를 가져올 때 매칭되는 데이터가 없다면 None이나 False를 반환하는 것이 아니라 Error를 발생시켯다.
+결과를 보니 에러의 원인은 queryset 을 사용해서 데이터를 가져올 때 매칭되는 데이터가 없다면 None이나 False를 반환하지 않고 `Answer matching query does not exist.` 에러를 발생시킴이 원인이었다.
+
+get_object_or_404 를 이런 이유 때문에 사용하는 것 같다.
 
 
 
