@@ -1,5 +1,5 @@
 ---
-title:  "[Error] django debug toolbar 안 보이는 현상"
+title:  "[Error] debug toolbar 안 보이는 현상"
 excerpt: "debug toolbar 에러?!"
 categories:
  - Django
