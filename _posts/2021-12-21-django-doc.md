@@ -30,6 +30,7 @@ toc_sticky: true
 
   - 전체적인 코드를 파악할 수 있다.
   - 자주 애용하자.
+- django rest-framework : [https://www.django-rest-framework.org/#installation](https://www.django-rest-framework.org/#installation)
 
   
 
