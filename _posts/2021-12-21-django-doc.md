@@ -57,4 +57,6 @@ toc_sticky: true
 - django-thumnail 깃헙 : [https://github.com/SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails)
 - 좋은 블로그 
   - [https://tothefullest08.github.io/django/2019/02/11/django01/](https://tothefullest08.github.io/django/2019/02/11/django01/)
+  - [https://wayhome25.github.io/](https://wayhome25.github.io/)
+    - 좋은 문서화의 예, 엄청난 자극을 주는 열정.. 
 
