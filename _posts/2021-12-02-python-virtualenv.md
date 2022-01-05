@@ -75,12 +75,13 @@ c:>virtualenv venv
 
 
 ```shell
-c:>virtualenv venv --python=python3
+virtualenv venv -p python3.9
+
 ```
 
 
 
-위의 --python=python3 형식으로 설치할 파이썬의 버전을 지정할 수 있다.
+위의 -p \<python 버전> 형식으로 설치할 파이썬의 버전을 지정할 수 있다.
 
 
 

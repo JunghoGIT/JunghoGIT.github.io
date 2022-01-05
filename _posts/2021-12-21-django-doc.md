@@ -55,8 +55,10 @@ toc_sticky: true
 - django orm cookbook 번역 : [https://django-orm-cookbook-ko.readthedocs.io/en/latest/index.html](https://django-orm-cookbook-ko.readthedocs.io/en/latest/index.html)
 - django bootstrap5 : [https://django-bootstrap-v5.readthedocs.io/en/latest/](https://django-bootstrap-v5.readthedocs.io/en/latest/)
 - django-thumnail 깃헙 : [https://github.com/SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails)
+- django-storages : [https://django-storages.readthedocs.io/en/latest/](https://django-storages.readthedocs.io/en/latest/)
 - 좋은 블로그 
   - [https://tothefullest08.github.io/django/2019/02/11/django01/](https://tothefullest08.github.io/django/2019/02/11/django01/)
   - [https://wayhome25.github.io/](https://wayhome25.github.io/)
     - 좋은 문서화의 예, 엄청난 자극을 주는 열정.. 
+  - [https://simpleisbetterthancomplex.com/](https://simpleisbetterthancomplex.com/)
 
