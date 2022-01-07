@@ -61,4 +61,7 @@ toc_sticky: true
   - [https://wayhome25.github.io/](https://wayhome25.github.io/)
     - 좋은 문서화의 예, 엄청난 자극을 주는 열정.. 
   - [https://simpleisbetterthancomplex.com/](https://simpleisbetterthancomplex.com/)
+    - 해외 블로그,
+  - [https://qwlake.github.io/](https://qwlake.github.io/)
+    - 배포와 서버 관련하여 좋은 글들이 많다.
 
