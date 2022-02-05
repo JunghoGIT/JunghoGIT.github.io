@@ -119,7 +119,7 @@ allauth는 장고로 만들어진 라이브러리이다.
 
 즉 allauth/templates/socialaccount/login.html 파일을 수정하고 싶다면
 
-<settings에 설정한 template경로>/socialaccount/login.html 이런식으로 저장해줘야한다.
+'settings에 설정한 template경로'/socialaccount/login.html 이런식으로 저장해줘야한다.
 
 <br>
 
