@@ -10,7 +10,6 @@ toc: true
 toc_sticky: true
 ---
 
-# python 가상 환경 virtualenv 
 
 # dash로 dashboard 만들기 
 
