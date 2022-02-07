@@ -95,5 +95,22 @@ from app.models import modelname
 
 <br>
 
+배포 단계에서는 백그라운드로 실행하는 방법이 있다.
+백그라운드로 실행하는 방법은 OS마다 차이가 있다.
+
+<br>
+
+
+linux의 경우
+
+```bash
+nohup python filename.py &
+
+```
+
+명령어를 통해 백그라운드 실행이 가능하다.
+
+<br>
+
 혹시라도 더 좋은 방법이 존재한다면 댓글로 알려주시면 감사드리겠습니다. 
 
